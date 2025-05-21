@@ -70,7 +70,67 @@
 		</tr>
 		<tr>
 			<td><b><a href="https://github.com/PBjr2002/philosophers">Philosophers</a></b></td>
-			<td>Build a program that utilizes threads to build a simulation of philosophers eating</td>
+			<td>Build a program that utilizes threads to build a sim of philosophers eating</td>
+			<td>✅ 100%</td>
+		</tr>
+		<tr>
+			<td><b><a href="https://github.com/PBjr2002/Net_Practice">Net Practice</a></b></td>
+			<td>Training to setup networks with correct IPs and their Masks</td>
+			<td>✅ 100%</td>
+		</tr>
+		<tr>
+			<td><b><a href="https://github.com/PBjr2002/Cub3d">Cub3D</a></b></td>
+			<td>Build a 3D game maze utilizing the raycast method using the mlx library</td>
+			<td>✅ 125%</td>
+		</tr>
+		<tr>
+			<td><b><a href="https://github.com/PBjr2002/CPP00">CPP00</a></b></td>
+			<td>Learn the basics about the Cpp language</td>
+			<td>✅ 80%</td>
+		</tr>
+		<tr>
+			<td><b><a href="https://github.com/PBjr2002/CPP01">CPP01</a></b></td>
+			<td>Learn about Classes allocation, pointers to members and switch statments</td>
+			<td>✅ 80%</td>
+		</tr>
+		<tr>
+			<td><b><a href="https://github.com/PBjr2002/CPP02">CPP02</a></b></td>
+			<td>Learn about polymorphism and operator overloads</td>
+			<td>✅ 80%</td>
+		</tr>
+		<tr>
+			<td><b><a href="https://github.com/PBjr2002/CPP03">CPP03</a></b></td>
+			<td>Learn about Inheritance</td>
+			<td>✅ 80%</td>
+		</tr>
+		<tr>
+			<td><b><a href="https://github.com/PBjr2002/CPP04">CPP04</a></b></td>
+			<td>Learn about Abstract classes and Interfaces</td>
+			<td>✅ 100%</td>
+		</tr>
+		<tr>
+			<td><b><a href="https://github.com/PBjr2002/CPP05">CPP05</a></b></td>
+			<td>Learn about Exceptions</td>
+			<td>✅ 100%</td>
+		</tr>
+		<tr>
+			<td><b><a href="https://github.com/PBjr2002/CPP06">CPP06</a></b></td>
+			<td>Learn about Cpp Typecasts</td>
+			<td>✅ 100%</td>
+		</tr>
+		<tr>
+			<td><b><a href="https://github.com/PBjr2002/CPP07">CPP07</a></b></td>
+			<td>Learn about Templates</td>
+			<td>✅ 100%</td>
+		</tr>
+		<tr>
+			<td><b><a href="https://github.com/PBjr2002/CPP08">CPP08</a></b></td>
+			<td>Learn about Containers, Iterators and Algorithms</td>
+			<td>✅ 100%</td>
+		</tr>
+		<tr>
+			<td><b><a href="https://github.com/PBjr2002/CPP09">CPP09</a></b></td>
+			<td>Learn about the differences between various Containers</td>
 			<td>✅ 100%</td>
 		</tr>
 	</table>
