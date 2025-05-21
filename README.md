@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+<div align="center">
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/pauberna?1337Badge=off&UM6P=off" alt="pauberna's 42 stats" /></a>
+  </a>
+</div>
 <!--
 **PBjr2002/PBjr2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
