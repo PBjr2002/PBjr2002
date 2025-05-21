@@ -47,6 +47,21 @@
 		<td>Build a program that reads a file and returns the next line in each call</td>
 		<td>✅ 125%</td>
 	</tr>
+	<tr>
+		<td><b><a href="https://github.com/PBjr2002/Push_Swap">Push_Swap</a></b></td>
+		<td>Build a program that organizes a random stack of numbers</td>
+		<td>✅ 84%</td>
+	</tr>
+	<tr>
+		<td><b><a href="https://github.com/PBjr2002/So_Long">So_long</a></b></td>
+		<td>Build a 2D game using the mlx library</td>
+		<td>✅ 125%</td>
+	</tr>
+	<tr>
+		<td><b><a href="https://github.com/PBjr2002/Pipex">Pipex</a></b></td>
+		<td>Build a program that replicates the behavior of pipes in Bash</td>
+		<td>✅ 125%</td>
+	</tr>
 </table>
 
 <!--
