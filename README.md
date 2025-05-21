@@ -37,10 +37,21 @@
 		<td>Build our own library in C</td>
 		<td>✅ 125%</td>
 	</tr>
+	<tr>
+		<td><b><a href="https://github.com/PBjr2002/FT_Printf">FT_Printf</a></b></td>
+		<td>Build our own printf based on the original</td>
+		<td>✅ 100%</td>
+	</tr>
+	<tr>
+		<td><b><a href="https://github.com/PBjr2002/Get_Next_Line">Get_Next_Line</a></b></td>
+		<td>Build a program that reads a file and returns the next line in each call</td>
+		<td>✅ 125%</td>
+	</tr>
 </table>
 
 <!--
 **PBjr2002/PBjr2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Update README.md
 
 Here are some ideas to get you started:
 
