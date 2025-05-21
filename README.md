@@ -70,7 +70,7 @@
 		</tr>
 		<tr>
 			<td><b><a href="https://github.com/PBjr2002/philosophers">Philosophers</a></b></td>
-			<td>Build a program that utilizes threads to build a sim of philosophers eating</td>
+			<td>Build a program that utilizes threads to build a simulation of philosophers eating</td>
 			<td>✅ 100%</td>
 		</tr>
 	</table>
