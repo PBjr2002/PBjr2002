@@ -4,6 +4,26 @@
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/pauberna?1337Badge=off&UM6P=off" alt="pauberna's 42 stats" /></a>
   </a>
 </div>
+
+<div align="center">
+
+### Languages
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,bash,html,css" alt="Icons" />
+  </a>
+</div>
+
+<div align="center">
+  
+### Tools
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,vscode,vim,git,github,nginx,wordpress,docker" alt="Icons" />
+  </a>
+</div>
+<div align="center">
+  <img height="199.5em" src="https://github-readme-stats.vercel.app/api?username=PBjr2002&show_icons=true&theme=holi" alt="Your GitHub stats">
+  <img height="199.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PBjr2002&layout=compact&langs_count=8&theme=holi"/>
+</div>
 <!--
 **PBjr2002/PBjr2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
