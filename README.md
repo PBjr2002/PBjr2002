@@ -24,6 +24,21 @@
   <img height="199.5em" src="https://github-readme-stats.vercel.app/api?username=PBjr2002&show_icons=true&theme=holi" alt="Your GitHub stats">
   <img height="199.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PBjr2002&layout=compact&langs_count=8&theme=holi"/>
 </div>
+
+### Projects
+<table align="center">
+	<tr>
+		<th>Project</th>
+		<th>Brief Explanation</th>
+		<th>Status</th>
+	</tr>
+	<tr>
+		<td><b><a href="https://github.com/PBjr2002/Libft">Libft</a></b></td>
+		<td>Build our own library in C</td>
+		<td>✅ 125%</td>
+	</tr>
+</table>
+
 <!--
 **PBjr2002/PBjr2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
