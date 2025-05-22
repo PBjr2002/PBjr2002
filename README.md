@@ -138,6 +138,11 @@
 			<td>Build a website using Dockers and building a docker network</td>
 			<td>✅ 100%</td>
 		</tr>
+		<tr>
+			<td><b><a href="https://github.com/mariocos/Webserver/tree/main">WebServ</a></b></td>
+			<td>Build our HTTP server</td>
+			<td>In Progress</td>
+		</tr>
 	</table>
 </div>
 
