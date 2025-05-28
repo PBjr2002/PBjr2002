@@ -3,12 +3,13 @@
 ## Hi there 👋
 </div>
 
-### About Me:
 <p>
-	Im currently a student at <strong>42 Lisbon</strong> passionate about problem-solving, low-level programming, and game development.
-	I love tackling complex challenges and building efficient, elegant solutions — whether it's debugging memory issues or designing systems from scratch.
-	In my free time, I explore game development, with a growing interest in creating games from the ground up using custom-built engines. This allows me to combine my creativity with my passion for understanding how things work under the hood.
-	I'm currently expanding my skills in C, C++, and system-level tools like Docker and Git, while constantly experimenting with performance optimization, game mechanics, and engine architecture.
+    <h2><img src="https://giphy.com/stickers/PizzaNinjas-pizza-ninjas-pizzaninjas-ninja-UmWpVKOvNEv6CHVtl7" width="60"> About me :</h2>
+<p>
+<p>
+	Im currently a student at <strong>42 Lisbon</strong> with a passion for problem-solving, low-level programming, and building efficient solutions. I enjoy tackling technical challenges and constantly improving my understanding of system internals, especially through C and C++.
+
+	I'm also deeply interested in game development, particularly creating games from scratch using custom-built engines. This lets me combine creativity with technical depth, as I explore topics like engine architecture, performance, and gameplay mechanics.
 </p>
 
 ### My Progress so far in 42 Lisbon:
