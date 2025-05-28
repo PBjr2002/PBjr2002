@@ -17,14 +17,16 @@
 
 <p>
 	<h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWN0c2UwaWU1ODFnbmtocmRsajZnMGN2OGRvYjNpcnVrOWprczFzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/63U3Eo9nrZjX83gLOW/giphy.gif" width="35">
-	My Progress so far in 42 Lisbon:</h2>
+	 My Progress so far in 42 Lisbon:</h2>
 </p>
 
 <div align="center">
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/pauberna?1337Badge=off&UM6P=off" alt="pauberna's 42 stats" /></a>
   </a>
 </div>
-
+<p>
+	<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXU5MHc2MDNpdm1pNDdnM2UydTZwY285bzRmNGJ0dWZ3MXFjamltZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JwOUH7TbHFHg3LnX18/giphy.gif" width="30"> Skills</h2>
+</p>
 <div align="center">
 
 ### Languages
@@ -47,7 +49,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PBjr2002&color=blue&style=flat-square)
 
-### Projects
+<p>
+	<h2><img src= "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHNzdzd6YmZpZ2s3cmFsYzUyYjZ6MmVpNjFhbzRrbWRnOTl0cG90eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Projects</h2>
+</p>
 <div align="center" style="max-width: 800px; margin: auto;">
 	<table>
 		<tr>
