@@ -1,4 +1,10 @@
+<div align="center">
+
 ## Hi there 👋
+</div>
+
+### Currently im a student at 42 Lisbon
+
 ### My Progress so far in 42 Lisbon:
 <div align="center">
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/pauberna?1337Badge=off&UM6P=off" alt="pauberna's 42 stats" /></a>
