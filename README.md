@@ -3,7 +3,10 @@
 ## Hi there 👋
 </div>
 
-### Currently im a student at 42 Lisbon
+### About Me:
+<p>
+	Im currently a student at <strong>42 Lisbon</strong>.
+</p>
 
 ### My Progress so far in 42 Lisbon:
 <div align="center">
