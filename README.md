@@ -13,7 +13,11 @@
 	I'm also deeply interested in game development, particularly creating games from scratch using <strong>custom-built engines</strong>. This lets me combine creativity with technical depth, as I explore topics like <strong>engine architecture</strong>, <strong>performance</strong>, and <strong>gameplay mechanics</strong>.
 </p>
 
-### My Progress so far in 42 Lisbon:
+<p>
+	<h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWN0c2UwaWU1ODFnbmtocmRsajZnMGN2OGRvYjNpcnVrOWprczFzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/63U3Eo9nrZjX83gLOW/giphy.gif" width="60">
+	My Progress so far in 42 Lisbon:</h2>
+</p>
+
 <div align="center">
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/pauberna?1337Badge=off&UM6P=off" alt="pauberna's 42 stats" /></a>
   </a>
