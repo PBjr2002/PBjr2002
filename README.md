@@ -1,8 +1,6 @@
 <div align="center">
-	<p>
-		<h2>Hi there</h2>
-		<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWl0cWkwZW16MnVpZGdtOGkwc3g3NGJzYzZ6OTJuZTg5ZG5jcnV5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="60">
-	</p>
+
+## Hi there 👋
 </div>
 
 <p>
