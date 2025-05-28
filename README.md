@@ -25,7 +25,7 @@
   </a>
 </div>
 <p>
-	<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXU5MHc2MDNpdm1pNDdnM2UydTZwY285bzRmNGJ0dWZ3MXFjamltZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JwOUH7TbHFHg3LnX18/giphy.gif" width="30"> Skills</h2>
+	<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXU5MHc2MDNpdm1pNDdnM2UydTZwY285bzRmNGJ0dWZ3MXFjamltZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JwOUH7TbHFHg3LnX18/giphy.gif" width="30"> Tech Toolkit</h2>
 </p>
 <div align="center">
 
