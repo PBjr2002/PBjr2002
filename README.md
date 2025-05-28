@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Profile Views](https://komarev.com/ghpvc/?username=PBjr2002&color=blue&style=flat-square)
 ### My Progress so far in 42 Lisbon:
 <div align="center">
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/pauberna?1337Badge=off&UM6P=off" alt="pauberna's 42 stats" /></a>
