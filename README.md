@@ -4,7 +4,7 @@
 </div>
 
 <p>
-    <h2><img src="https://giphy.com/stickers/PizzaNinjas-pizza-ninjas-pizzaninjas-ninja-UmWpVKOvNEv6CHVtl7" width="60"> About me :</h2>
+    <h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2NqMmJlMjN1b253cmtvZXlubzhoZGxkc25qbXVoMXI1c2l2dzY1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UmWpVKOvNEv6CHVtl7/giphy.gif" width="60"> About me :</h2>
 <p>
 <p>
 	Im currently a student at <strong>42 Lisbon</strong> with a passion for problem-solving, low-level programming, and building efficient solutions. I enjoy tackling technical challenges and constantly improving my understanding of system internals, especially through C and C++.
