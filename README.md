@@ -167,7 +167,7 @@
 		<tr>
 			<td><b><a href="https://github.com/mariocos/Webserver/tree/main">WebServ</a></b></td>
 			<td>Build our HTTP server</td>
-			<td>In Progress</td>
+			<td>🛠️ In Progress</td>
 		</tr>
 	</table>
 </div>
