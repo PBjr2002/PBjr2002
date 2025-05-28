@@ -1,7 +1,7 @@
 <div align="center">
 
 <p>
-	<h1>Hi there Im Paulo <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWl0cWkwZW16MnVpZGdtOGkwc3g3NGJzYzZ6OTJuZTg5ZG5jcnV5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="45"></h1>
+	<h1>Hi there I'm Paulo <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWl0cWkwZW16MnVpZGdtOGkwc3g3NGJzYzZ6OTJuZTg5ZG5jcnV5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="45"></h1>
 </p>
 </div>
 
@@ -9,7 +9,7 @@
     <h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2NqMmJlMjN1b253cmtvZXlubzhoZGxkc25qbXVoMXI1c2l2dzY1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UmWpVKOvNEv6CHVtl7/giphy.gif" width="60"> About Me:</h2>
 </p>
 <p>
-	Im currently a student at <strong>42 Lisbon</strong> with a passion for problem-solving, low-level programming, and building efficient solutions. I enjoy tackling technical challenges and constantly improving my understanding of system internals, especially through <strong>C</strong> and <strong>C++</strong>.
+	I'm currently a student at <strong>42 Lisbon</strong> with a passion for problem-solving, low-level programming, and building efficient solutions. I enjoy tackling technical challenges and constantly improving my understanding of system internals, especially through <strong>C</strong> and <strong>C++</strong>.
 </p>
 <p>
 	I'm also deeply interested in game development, particularly creating games from scratch using <strong>custom-built engines</strong>. This lets me combine creativity with technical depth, as I explore topics like <strong>engine architecture</strong>, <strong>performance</strong>, and <strong>gameplay mechanics</strong>.
