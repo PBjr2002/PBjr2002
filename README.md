@@ -5,7 +5,10 @@
 
 ### About Me:
 <p>
-	Im currently a student at <strong>42 Lisbon</strong>.
+	Im currently a student at <strong>42 Lisbon</strong> passionate about problem-solving, low-level programming, and game development.
+	I love tackling complex challenges and building efficient, elegant solutions — whether it's debugging memory issues or designing systems from scratch.
+	In my free time, I explore game development, with a growing interest in creating games from the ground up using custom-built engines. This allows me to combine my creativity with my passion for understanding how things work under the hood.
+	I'm currently expanding my skills in C, C++, and system-level tools like Docker and Git, while constantly experimenting with performance optimization, game mechanics, and engine architecture.
 </p>
 
 ### My Progress so far in 42 Lisbon:
