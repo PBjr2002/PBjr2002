@@ -111,7 +111,7 @@
 		</tr>
 		<tr>
 			<td><b><a href="https://github.com/PBjr2002/CPP00">CPP00</a></b></td>
-			<td>Learn the basics about the Cpp language</td>
+			<td>Learn the basics about the C++ language</td>
 			<td>✅ 80%</td>
 		</tr>
 		<tr>
