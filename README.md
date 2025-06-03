@@ -141,7 +141,7 @@
 		</tr>
 		<tr>
 			<td><b><a href="https://github.com/PBjr2002/CPP06">CPP06</a></b></td>
-			<td>Learn about Cpp Typecasts</td>
+			<td>Learn about C++ Typecasts</td>
 			<td>✅ 100%</td>
 		</tr>
 		<tr>
