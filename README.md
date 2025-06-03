@@ -117,7 +117,7 @@
 		<tr>
 			<td><b><a href="https://github.com/PBjr2002/CPP01">CPP01</a></b></td>
 			<td>Learn about Classes allocation, pointers to members and switch statments</td>
-			<td>✅ 80%</td>
+			<td>✅ 90%</td>
 		</tr>
 		<tr>
 			<td><b><a href="https://github.com/PBjr2002/CPP02">CPP02</a></b></td>
