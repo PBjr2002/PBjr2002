@@ -171,7 +171,7 @@
 		</tr>
 		<tr>
 			<td><b><a href="https://github.com/PBjr2002/Transcendence">Transcendence</a></b></td>
-			<td>Build our Application</td>
+			<td>Build our Web Application</td>
 			<td>✅ 125%</td>
 		</tr>
 	</table>
