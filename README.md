@@ -172,12 +172,13 @@
 		<tr>
 			<td><b><a href="https://github.com/PBjr2002/Transcendence">Transcendence</a></b></td>
 			<td>Build our Application</td>
-			<td>🛠️ In Progress</td>
+			<td>✅ 125%</td>
 		</tr>
 	</table>
 </div>
 
 <!--
+<td>🛠️ In Progress</td>
 **PBjr2002/PBjr2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Update README.md
 
