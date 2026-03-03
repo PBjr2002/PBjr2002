@@ -11,9 +11,11 @@
 <p>
 	I'm currently a student at <strong>42 Lisbon</strong> with a passion for problem-solving, low-level programming, and building efficient solutions. I enjoy tackling technical challenges and constantly improving my understanding of system internals, especially through <strong>C</strong> and <strong>C++</strong>.
 </p>
+<!--
 <p>
 	I'm also interested in game development, particularly creating games from scratch in <strong>C</strong> and <strong>C++</strong>. This lets me combine creativity with technical depth, as I explore topics like <strong>engine architecture</strong>, <strong>performance</strong>, and <strong>gameplay mechanics</strong>.
 </p>
+-->
 
 <p>
 	<h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWN0c2UwaWU1ODFnbmtocmRsajZnMGN2OGRvYjNpcnVrOWprczFzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/63U3Eo9nrZjX83gLOW/giphy.gif" width="35">
