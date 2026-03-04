@@ -176,6 +176,11 @@
 			<td>Build our Web Application</td>
 			<td>✅ 125%</td>
 		</tr>
+		<tr>
+			<td><b><a href="https://github.com/PBjr2002/Python_Practice">Python Piscine</a></b></td>
+			<td>Learn basic concepts of python</td>
+			<td>🛠️ In Progress</td>
+		</tr>
 	</table>
 </div>
 
