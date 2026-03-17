@@ -33,7 +33,7 @@
 
 ### Languages
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,bash,html,css" alt="Icons" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,sqlite,py,bash,html,css" alt="Icons" />
   </a>
 </div>
 
@@ -41,7 +41,7 @@
   
 ### Tools
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,vim,git,github,nginx,wordpress,docker" alt="Icons" />
+    <img src="https://skillicons.dev/icons?i=linux,vscode,nginx,nodejs,docker,npm,postman,vim,git,github" alt="Icons" />
   </a>
 </div>
 <div align="center">
